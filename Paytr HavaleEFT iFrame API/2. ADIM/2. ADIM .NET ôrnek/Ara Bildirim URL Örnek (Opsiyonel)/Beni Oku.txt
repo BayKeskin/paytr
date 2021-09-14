@@ -1,0 +1,3 @@
+BİLGİ: Ara Bildirim URL "opsiyoneldir", entegrasyon yapmanız "zorunlu değildir".
+
+Ara Bildirim URL tanımı ile; müşterinizin, IFrame içerisinde bildirim formunu doldurmasıyla birlikte, talep etmeniz halinde PayTR alt yapısı belirteceğiniz “Ara Bildirim URL” adresine bir ara bildirim yapacaktır. Bildirim içeriğinde EFT/Havale isteğinde göndermiş olduğunuz sipariş numarası ve müşterinizin işlem için seçtiği banka bilgisi bulunur. “Ara Bildirim URL” olarak kullanmak istediğiniz URL bilgisini PayTR Mağaza Paneli > Ayarlar bölümünden ekleyebilirsiniz.
